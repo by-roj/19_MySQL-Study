@@ -1,14 +1,15 @@
-# MySQL-Study
+# MySQL Study
 
-'SQL 첫걸음' 교재를 매주 공부하고 발제하는 스터디입니다
+Record of studying and presenting MySQL related data
+Textbook: First step of SQL
 
 <br>
 
-### 📚 Courses
+### ◻ Courses
 
-- 1장 : 데이터베이스와 SQL
-- 2장 : 테이블에서 데이터 검색
-- 3장 : 정렬과 연산
-- 4장 : 데이터의 추가, 삭제, 갱신
-- 5장 : 집계와 서브쿼리
-- 6장 : 데이터베이스 객체 작성과 삭제
+- Chapter 1: Database and SQL
+- Chapter 2: Searching data in table
+- Chapter 3: Alignment and Operation
+- Chapter 4: Inserting, Deleting and Updating data
+- Chapter 5: Aggregation and Subquery
+- Chapter 6: Creating and deleteing database objects
